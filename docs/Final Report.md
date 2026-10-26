@@ -226,33 +226,23 @@ We invite the community to help us discover, document, and share the many ways O
 
 The following resources provide supporting evidence for the work described in this report. All links are publicly accessible unless stated otherwise.
 
-### Appendix A: Project Platform
-
 - **UseOSM website:** [https://www.useosm.org/](https://www.useosm.org/)  
   The live platform, featuring use cases, tools and resources, OSM community listings, blogs and OSM statistics, available in English and French.
 - **GitHub repository:** [https://github.com/unpatterned-labs/useosm](https://github.com/unpatterned-labs/useosm)  
   The open-source codebase, where the community can contribute content, report issues and suggest improvements.
-
-### Appendix B: Design
 
 - **Figma design file:** UseOSM Figma prototype  
   The UI/UX designs that shaped the website, completed in July 2025.
 - **Community design discussion (8 August 2025):** Meeting recording  
   An open session where the core team introduced UseOSM, demonstrated the design and gathered early feedback from community members, including an OSMF board member.
 
-### Appendix C: Community Engagement and Map<>Kathon
-
 - **Town Hall meeting notes:** Town Hall notes  
   Notes from the UseOSM Town Hall, covering the Map<>Kathon introduction, requirements, team formation and Q&A.
 - **Map<>Kathon 2026 winners:** [https://www.useosm.org/en/blogs/mapkathon-2026-winners](https://www.useosm.org/en/blogs/mapkathon-2026-winners)  
   Announcement of the four winning projects. The Map<>Kathon drew 33 participants from Europe, Africa and Asia, working in 8 teams and as 13 individuals.
 
-### Appendix D: Analytics
-
 - **Website analytics dashboard:** [https://useosm.goatcounter.com](https://useosm.goatcounter.com)  
   Privacy-friendly visitor statistics for the UseOSM website, including page views, referrers and geographic reach.
-
-### Appendix E: State of the Map 2026 (Paris)
 
 - **Presentation slides:** UseOSM at SotM 2026  
   Slides presented by Victor Ademoyero and Olanrewaju Michael, covering the project background, Map<>Kathon results, platform features and next steps.
