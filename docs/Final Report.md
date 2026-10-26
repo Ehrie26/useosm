@@ -11,8 +11,6 @@ This issue tracks the creation of the final report to be submitted to the OpenSt
 - [ ] Final Report (PDF format - .pdf file)
 - [ ] All supporting materials (screenshots, metrics, testimonials)
 
-## Report Structure & Sections
-
 # Final Report - UseOSM OSMF Microgrant
 
 ## 1. Executive Summary
